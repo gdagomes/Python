@@ -22,10 +22,10 @@ Repositório em construção.
 
 ## Estudos:
   
-  * Exercícios Resolvidos - Iniciei meus estudos na linguagem Python através do site cursoemvídeo.com do professor Guanabara e, desde então tenho me empenhado a me desenvolver na linguagem.  
+  ### Exercícios Resolvidos - Iniciei meus estudos na linguagem Python através do site cursoemvídeo.com do professor Guanabara e, desde então tenho me empenhado a me desenvolver na linguagem.  
   - Mundo 1, 2 e 3 do Curso em Vídeo.
   
-  * Fiap 
+  ### Fiap 
   - Módulo Python
   - Estatística
   - Machine Learning
