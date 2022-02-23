@@ -1,8 +1,11 @@
 # Python
 
-Repositório em construção.
+Neste repositório você encontrará 3 Diretórios Kaggle, Curso em Vídeo e MySQL. 
+Todos os projetos que estão disponíveis em cada diretório refere-se às práticas dos conhecimentos adquiridos nos cursos realizados.
 
 ## Kaggle:
+
+Neste diretório incluirei todos os projetos de Análise de Dados (análise descritiva e exploratória) e criação de Modelo de ML. 
 
   ### Projeto Dataset Titanic
   - Projetos de Ciências de Dados com Machine Learning, iniciando com o Dataset do Titanic.
@@ -20,13 +23,13 @@ Repositório em construção.
    - O modelo foi treinado no método de Aprendizado supervisionado e, foi testado com a entrada de dois novos dados incluso através de uma lista cada um.
 
 
-## Estudos:
-  
-  ### Mundo 1, 2 e 3 do Curso em Vídeo.
-  - Exercícios Resolvidos - Iniciei meus estudos na linguagem Python através do site cursoemvídeo.com do professor Guanabara e, desde então tenho me empenhado a me desenvolver na linguagem.  
+## Curso em Vídeo:
 
-  ### Fiap 
-  - Módulo Python
-  - Estatística
-  - Machine Learning
-  - Deep Learning
+ Iniciei meus estudos na linguagem Python através do site cursoemvídeo.com do professor Guanabara e, desde então tenho me empenhado a me desenvolver na linguagem. 
+ E, neste diretório você encontrará os exercícios resolvidos de cada "Mundo" (módulo) do curso realizado.
+  
+  ### Mundo 1, 2 e 3 do curso de Python.
+  
+  - Exercícios Resolvidos
+  - Em construção
+
