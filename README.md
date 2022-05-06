@@ -23,6 +23,10 @@ Neste diretório incluirei todos os projetos de Análise de Dados (análise desc
    - O modelo foi treinado no método de Aprendizado supervisionado e, foi testado com a entrada de dois novos dados incluso através de uma lista cada um.
 
 
+## MySQL:
+
+Realizando minha primeira conexão de um script Python com o Banco de dados MySQL. 
+
 ## Curso em Vídeo:
 
  Iniciei meus estudos na linguagem Python através do site cursoemvídeo.com do professor Guanabara e, desde então tenho me empenhado a me desenvolver na linguagem. 
@@ -30,6 +34,5 @@ Neste diretório incluirei todos os projetos de Análise de Dados (análise desc
   
   ### Mundo 1, 2 e 3 do curso de Python.
   
-  - Exercícios Resolvidos
   - Em construção
 
